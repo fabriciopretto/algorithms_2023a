@@ -1,7 +1,7 @@
-Algoritmo "semnome"
+Algoritmo "troca_numeros"
 // 
 //  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descriï¿½ï¿½o   : Aqui vocï¿½ descreve o que o programa faz! (funï¿½ï¿½o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 4/14/2023
 Var
@@ -9,10 +9,10 @@ num1, num2: inteiro
 aux: inteiro
 
 Inicio
-Escreva ("Informe o número 1: ")
+Escreva ("Informe o nï¿½mero 1: ")
 Leia (num1)
 
-Escreva ("Informe o número 2: ")
+Escreva ("Informe o nï¿½mero 2: ")
 Leia (num2)
 
 // realizar as trocas
