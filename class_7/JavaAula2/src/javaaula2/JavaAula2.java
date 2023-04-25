@@ -22,6 +22,7 @@ public class JavaAula2 {
         String nome = "Juca Bala";  // sequencias de caracteres
         char genero = '.';          // apenas 1 caractere
         boolean tem_juca = false;   // verdadeiro (true) ou falso (false)
+        String batata = "frita";
 
         // utilizar notacao CamelCase
         boolean temJuca;
